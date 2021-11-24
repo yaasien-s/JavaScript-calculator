@@ -1,0 +1,18 @@
+#output{
+    background-color: rgb(142, 230, 142);
+    height: 100px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.calckeys{
+    border: 1px solid rgb(109, 109, 109);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(27, 27, 27);
+}
+
+button{
+    margin-top: 10px;
+    border-radius: 20px !important;
+}
